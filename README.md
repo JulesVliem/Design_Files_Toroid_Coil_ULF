@@ -1,4 +1,4 @@
-# Supporting Files for Design and performance of a Toroidal RF Volume Coil with Intrinsic Electromagnetic Interference Rejection for low-field Portable Halbach-Based MRI Systems
+# Supporting Files for the Toroidal RF Volume Coil at ULF MRI
 
 This repository contains supplementary design files for the paper "Design and performance of a Toroidal RF Volume Coil with Intrinsic Electromagnetic Interference Rejection for low-field Portable Halbach-Based MRI Systems" by J. Vliem et al. etc. (currently available as a preprint on arXiv: https://arxiv.org/abs/2505.21745).
 
