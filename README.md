@@ -4,13 +4,13 @@ This repository contains supplementary design files for the paper "Design and pe
 
 ## Contents
 
-The repository is organized into the following folders:
+For the 3D design files you will find SolidWorks part files (`.SLDPRT`), STEP files (`.step`), and STL files (`.stl`) for various CAD software compatibility and 3D printing. The repository is organized into the following folders:
 
-* **`Toroid Holder 3D Design Files`**: Contains the 3D design files for the toroid holder. You'll find SolidWorks part files (`.SLDPRT`), STEP files (`.step`), and STL files (`.stl`) for various CAD software compatibility and 3D printing.
-* **`Toroid Halves`**: Includes 3D printable files for the toroid split into two halves, ideal for users with smaller 3D printers.
-* **`Full Toroid`**: Provides the complete 3D design files for the full toroid.
-* **`KiCad PCB Files`**: Contains the KiCad project files for the printed circuit board, along with the corresponding Gerber files for manufacturing.
+* **`Quadruple Toroid Holder`**: Contains the 3D design files for the toroid holder. 
+* **`Quadruple Twist Half`**: Includes 3D printable files for the toroid split into two halves, ideal for users with smaller 3D printers.
+* **`Quadruple Twist Whole`**: Provides the complete 3D design files for the full toroid.
+* **`PCB Design`**: Contains the KiCad project files for the printed circuit board, along with the corresponding Gerber files for manufacturing.
 
 ## Usage
 
-These files are provided to enable replication and further development based on the designs presented in the associated paper. Please refer to the paper for detailed information regarding the design and assembly of these components.
+These files are provided to enable replication and further development based on the designs presented in the associated paper. Please refer to the paper for detailed information regarding the design and assembly of these components. Feel free to reach out for any questions!
